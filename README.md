@@ -13,7 +13,7 @@
 
 
 
-- 🏢 I'm a Student at FCI , I'm interested in machine learning , i still beginner in AI
+- 🏢 I'm a Student at FCI , I'm interested in  AI  , i am AI engineer entern in RMG 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Math for Machine Learning , Python , CPP , Data structures , algorthims , ML   
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
