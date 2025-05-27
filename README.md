@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Mohamed Ehab 👋</h1>
 <p align="center">
+  <img src="https://github.com/mohamed-ehab415.png" width="150" style="border-radius:50%" alt="Mohamed Ehab's Profile Picture" />
+</p>
+<p align="center">
   <b>Machine Learning Engineer | Computer Vision | AI Model Deployment</b><br>
   <a href="https://www.linkedin.com/in/mohamed-ehab415" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
@@ -17,8 +20,6 @@
 ---
 
 ## 🧑‍💻 About Me
-
-<img align="right" src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="250"/>
 
 Results-driven Machine Learning Engineer specializing in deep learning, computer vision, and AI deployment. I enjoy developing robust end-to-end solutions using PyTorch, TensorFlow, and FastAPI. My expertise covers neural network architectures (CNNs, RNNs, LSTMs, Transformers), computer vision applications (YOLO), and delivering impactful AI projects from research to production.
 
@@ -50,29 +51,13 @@ Results-driven Machine Learning Engineer specializing in deep learning, computer
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 My GitHub Repositories
 
-### Visual Distortions Detection System
-<img src="https://placehold.co/600x200?text=Project+Screenshot" width="100%" alt="Project Banner" />
-- Automated visual distortion detection using YOLO, CNNs, FastAPI
-- [GitHub Repository](#)
-
-### Trip Duration Predictor
-<img src="https://placehold.co/600x200?text=Project+Screenshot" width="100%" alt="Project Banner" />
-- Ridge regression model for taxi trip durations, clustering for features
-- [GitHub Repository](#)
-
-### Credit Card Fraud Detection System
-<img src="https://placehold.co/600x200?text=Project+Screenshot" width="100%" alt="Project Banner" />
-- Fraudulent transaction detection with ensemble learning, SMOTE
-- [GitHub Repository](#)
-
-### Graduate Admission Prediction Analysis
-<img src="https://placehold.co/600x200?text=Project+Screenshot" width="100%" alt="Project Banner" />
-- Data visualization and statistical analysis for grad admissions
-- [GitHub Repository](#)
-
-> _Replace the placeholder images above with your own project screenshots or banners!_
+<!-- Automatically display all public repositories -->
+<!-- Replace YOUR_USERNAME with your GitHub username if necessary -->
+<a href="https://github.com/mohamed-ehab415?tab=repositories">
+  <img src="https://github-readme-projects.vercel.app/api/projects?username=mohamed-ehab415&theme=radical" alt="All Repositories" />
+</a>
 
 ---
 
@@ -95,5 +80,5 @@ Results-driven Machine Learning Engineer specializing in deep learning, computer
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" />
+  <img src="https://github.com/mohamed-ehab415.png" width="120" style="border-radius:50%" alt="Mohamed Ehab's Profile Picture" />
 </p>
