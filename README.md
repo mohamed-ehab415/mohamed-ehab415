@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm Mohamed Ehab 👋</h1>
 <p align="center">
-  <img src="https://github.com/mohamed-ehab415.png" width="150" style="border-radius:50%" alt="Mohamed Ehab's Profile Picture" />
+  <!-- Replace the link below with a high-quality, professional photo hosted publicly (e.g., Unsplash, your website, or LinkedIn) -->
+  <img src="https://avatars.githubusercontent.com/u/15667501?v=4" width="150" style="border-radius:50%" alt="Professional Mohamed Ehab" />
 </p>
 <p align="center">
-  <b>Machine Learning Engineer | Computer Vision | AI Model Deployment</b><br>
+  <b>Machine Learning Engineer | Deep Learning | AI Model Deployment</b><br>
   <a href="https://www.linkedin.com/in/mohamed-ehab415" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
@@ -19,25 +20,30 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-Results-driven Machine Learning Engineer specializing in deep learning, computer vision, and AI deployment. I enjoy developing robust end-to-end solutions using PyTorch, TensorFlow, and FastAPI. My expertise covers neural network architectures (CNNs, RNNs, LSTMs, Transformers), computer vision applications (YOLO), and delivering impactful AI projects from research to production.
+Results-driven Machine Learning Engineer specializing in deep learning, computer vision, and AI deployment. I am passionate about building robust, scalable end-to-end solutions using the latest in AI technologies. My expertise spans neural network architectures, model deployment, and applying mathematics and algorithms for real-world impact.
 
 ---
 
 ## 🛠️ Technical Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?logo=yolo&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Roboflow](https://img.shields.io/badge/Roboflow-00B1FF?logo=roboflow&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white)
+**Core AI & Deep Learning:**
+- **CNN, RNN, LSTM, Transformer** architectures
+- **Computer Vision:** YOLO, image processing, object detection
+- **Machine Learning:** Regression, Classification, Clustering, Feature Engineering
+
+**Programming & Tools:**
+- **Languages:** Python, C++
+- **Frameworks:** PyTorch, TensorFlow, FastAPI
+- **Development:** Git, GitHub, Roboflow, ML Ops
+
+**Mathematics & Algorithms:**
+- **Math for AI:** Linear Algebra, Calculus, Probability, Statistics, Optimization
+- **Data Structures & Algorithms:** Efficient code, complex problem-solving
+
+**Visualization & Analytics:**
+- Matplotlib, Seaborn, Pandas, NumPy
 
 ---
 
@@ -53,8 +59,7 @@ Results-driven Machine Learning Engineer specializing in deep learning, computer
 
 ## 🚀 My GitHub Repositories
 
-<!-- All your repositories: replace YOUR_USERNAME with your GitHub username -->
-<!-- This will display your public repositories dynamically -->
+<!-- All your repositories: dynamically listed -->
 <a href="https://github.com/mohamed-ehab415?tab=repositories">
   <img src="https://github-readme-projects.vercel.app/api/projects?username=mohamed-ehab415&theme=radical" alt="All Repositories" />
 </a>
@@ -70,6 +75,13 @@ Results-driven Machine Learning Engineer specializing in deep learning, computer
 
 ---
 
+## 📚 Education
+
+- **B.Sc. Computer Science (AI)**, Zagazig University, Egypt (Expected 2025)
+- Relevant Coursework: Data Structures, Algorithms, Machine Learning, Deep Learning, Artificial Intelligence
+
+---
+
 ## 🤝 Connect with Me
 
 <a href="mailto:ma0587580@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
@@ -80,5 +92,6 @@ Results-driven Machine Learning Engineer specializing in deep learning, computer
 ---
 
 <p align="center">
-  <img src="https://github.com/mohamed-ehab415.png" width="120" style="border-radius:50%" alt="Mohamed Ehab's Profile Picture" />
+  <!-- Replace with a professional, high-quality photo of yourself if available -->
+  <img src="https://avatars.githubusercontent.com/u/15667501?v=4" width="120" style="border-radius:50%" alt="Professional Mohamed Ehab" />
 </p>
