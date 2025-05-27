@@ -1,99 +1,99 @@
 <h1 align="center">Hi, I'm Mohamed Ehab 👋</h1>
 <p align="center">
   <b>Machine Learning Engineer | Computer Vision | AI Model Deployment</b><br>
-  <a href="https://www.linkedin.com/in/mohamed-ehab415" target="_blank">LinkedIn</a> • 
-  <a href="https://github.com/mohamed-ehab415" target="_blank">GitHub</a> • 
-  Egypt
+  <a href="https://www.linkedin.com/in/mohamed-ehab415" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/mohamed-ehab415" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Egypt-Flag-green?logo=egyptair" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75000&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision+%7C+AI+Deployment" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🧑‍💻 About Me
+
+<img align="right" src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="250"/>
 
 Results-driven Machine Learning Engineer specializing in deep learning, computer vision, and AI deployment. I enjoy developing robust end-to-end solutions using PyTorch, TensorFlow, and FastAPI. My expertise covers neural network architectures (CNNs, RNNs, LSTMs, Transformers), computer vision applications (YOLO), and delivering impactful AI projects from research to production.
 
-- 📚 **Education:** B.Sc. in Computer Science (Artificial Intelligence), Zagazig University, Egypt (Expected 2025)
-- 🏅 **Achievements:** Top grade in ML internship program, AI community leadership
-- 🔭 **Looking for:** Full-time ML/AI opportunities (Available from 2025)
+---
+
+## 🛠️ Technical Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?logo=yolo&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow-00B1FF?logo=roboflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white)
 
 ---
 
-### 🛠️ Technical Skills
+## 📊 GitHub Stats
 
-- **Languages:** Python, C++
-- **Deep Learning:** PyTorch, TensorFlow, CNNs, RNNs, LSTMs, Transformers
-- **Computer Vision:** YOLO, image processing, object detection
-- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn
-- **ML Techniques:** Regression, Classification, Clustering, Feature Engineering, Model Evaluation
-- **Deployment:** FastAPI, API development
-- **Tools:** Git, GitHub, Roboflow, Cloud ML Ops
-- **Math:** Linear Algebra, Calculus, Probability, Optimization
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-ehab415&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamed-ehab415&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ehab415&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-### 💼 Professional Experience
+## 🚀 Featured Projects
 
-#### **AI Intern** — RMG Renad El Majd Group *(Feb 2025 – May 2025)*
-- Developed computer vision models for distortion detection
-- Optimized data annotation using Roboflow
-- Built production-ready APIs with FastAPI for real-time inference
+### Visual Distortions Detection System
+<img src="https://placehold.co/600x200?text=Project+Screenshot" width="100%" alt="Project Banner" />
+- Automated visual distortion detection using YOLO, CNNs, FastAPI
+- [GitHub Repository](#)
 
-#### **AI Co-lead** — OS Community, Zagazig University *(2024–Present)*
-- Led workshops/mentorship for 100+ students
-- Organized AI community events and curriculum development
+### Trip Duration Predictor
+<img src="https://placehold.co/600x200?text=Project+Screenshot" width="100%" alt="Project Banner" />
+- Ridge regression model for taxi trip durations, clustering for features
+- [GitHub Repository](#)
 
-#### **Core Team Member** — Google Developer Groups, Zagazig University *(2024–Present)*
-- Co-led AI/ML technical initiatives and knowledge-sharing sessions
+### Credit Card Fraud Detection System
+<img src="https://placehold.co/600x200?text=Project+Screenshot" width="100%" alt="Project Banner" />
+- Fraudulent transaction detection with ensemble learning, SMOTE
+- [GitHub Repository](#)
 
-#### **ML Intern** — Creative Ismailia *(Summer 2024)*
-- Developed predictive models and advanced feature engineering
-- Applied ML to real-world business challenges
+### Graduate Admission Prediction Analysis
+<img src="https://placehold.co/600x200?text=Project+Screenshot" width="100%" alt="Project Banner" />
+- Data visualization and statistical analysis for grad admissions
+- [GitHub Repository](#)
 
----
-
-### 🌟 Key Projects
-
-- **[Visual Distortions Detection System](#)**  
-  Computer vision solution for automated distortion detection using YOLO, CNNs, and FastAPI APIs
-
-- **[Trip Duration Predictor](#)**  
-  Ridge regression model for taxi trip durations; advanced feature engineering and clustering
-
-- **[Credit Card Fraud Detection System](#)**  
-  ML pipeline for fraud detection; addressed class imbalance, implemented ensemble models
-
-- **[Graduate Admission Prediction Analysis](#)**  
-  EDA and statistical modeling of grad admissions; compelling data visualization & insights
+> _Replace the placeholder images above with your own project screenshots or banners!_
 
 ---
 
-### 🏆 Core Competencies
+## 🏆 Experience & Community
 
-- Algorithm optimization & code efficiency
-- End-to-end ML pipeline development & deployment
-- Problem solving & R&D in AI applications
-- Technical mentorship, team leadership, and community building
-- Continuous learning and adaptability
-
----
-
-### 🌐 Connect with Me
-
-- 📧 Email: [ma0587580@gmail.com](mailto:ma0587580@gmail.com)
-- 📱 Phone: (010) 633 57972
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-ehab415)
-- 🖥️ [GitHub](https://github.com/mohamed-ehab415)
+- <b>AI Intern</b> @ RMG Renad El Majd Group (2025)
+- <b>AI Co-lead</b> @ OS Community, Zagazig University (2024–Present)
+- <b>Core Team Member</b> @ GDG, Zagazig University (2024–Present)
+- <b>ML Intern</b> @ Creative Ismailia (2024)
 
 ---
 
-### 🚩 Extras
+## 🤝 Connect with Me
 
-- 🏅 Active contributor to open-source AI projects
-- 🎤 Regular at AI/ML conferences & workshops
-- 💡 Passionate about impactful, real-world AI solutions
+<a href="mailto:ma0587580@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mohamed-ehab415"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/mohamed-ehab415"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Phone-01063357972-green?logo=phone" />
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-ehab415&show_icons=true&theme=radical" alt="mohamed-ehab415's GitHub Stats" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" />
 </p>
