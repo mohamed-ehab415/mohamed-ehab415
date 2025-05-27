@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Mohamed Ehab 👋</h1>
 <p align="center">
-  <!-- Replace the link below with a high-quality, professional photo hosted publicly (e.g., Unsplash, your website, or LinkedIn) -->
-  <img src="https://avatars.githubusercontent.com/u/15667501?v=4" width="150" style="border-radius:50%" alt="Professional Mohamed Ehab" />
+  <img src="https://github.com/mohamed-ehab415.png" width="150" style="border-radius:50%" alt="Mohamed Ehab's Profile Picture" />
 </p>
 <p align="center">
   <b>Machine Learning Engineer | Deep Learning | AI Model Deployment</b><br>
@@ -28,22 +27,19 @@ Results-driven Machine Learning Engineer specializing in deep learning, computer
 
 ## 🛠️ Technical Skills
 
-**Core AI & Deep Learning:**
-- **CNN, RNN, LSTM, Transformer** architectures
-- **Computer Vision:** YOLO, image processing, object detection
-- **Machine Learning:** Regression, Classification, Clustering, Feature Engineering
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,fastapi,git,github" alt="skills" />
+</p>
 
-**Programming & Tools:**
-- **Languages:** Python, C++
-- **Frameworks:** PyTorch, TensorFlow, FastAPI
-- **Development:** Git, GitHub, Roboflow, ML Ops
-
-**Mathematics & Algorithms:**
-- **Math for AI:** Linear Algebra, Calculus, Probability, Statistics, Optimization
-- **Data Structures & Algorithms:** Efficient code, complex problem-solving
-
-**Visualization & Analytics:**
-- Matplotlib, Seaborn, Pandas, NumPy
+<p align="center">
+  <img src="https://img.shields.io/badge/CNN-%231572B6.svg?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiI+PHJlY3Qgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiByeD0iNiIgZmlsbD0iIzE1NzJCNiIvPjwvc3ZnPg==" alt="CNN" height="28"/>
+  <img src="https://img.shields.io/badge/RNN-%23E34F26.svg?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiI+PGNpcmNsZSBjeD0iNiIgY3k9IjYiIHI9IjUiIGZpbGw9IiNFMzRGMjYiLz48L3N2Zz4=" alt="RNN" height="28"/>
+  <img src="https://img.shields.io/badge/LSTM-%2300B4D8.svg?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiI+PHJlY3Qgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiByeD0iMyIgZmlsbD0iIzAwQjREOCIvPjwvc3ZnPg==" alt="LSTM" height="28"/>
+  <img src="https://img.shields.io/badge/Transformer-%23FFCD38.svg?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiI+PHJlY3Qgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiBmaWxsPSIjRkZDRDM4Ii8+PC9zdmc+" alt="Transformer" height="28"/>
+  <img src="https://img.shields.io/badge/YOLO-%2300FFFF.svg?&style=for-the-badge" alt="YOLO" height="28"/>
+  <img src="https://img.shields.io/badge/Math%20for%20AI-%234B8BBE.svg?&style=for-the-badge" alt="Math for AI" height="28"/>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-%231572B6.svg?&style=for-the-badge" alt="Data Structures & Algorithms" height="28"/>
+</p>
 
 ---
 
@@ -59,7 +55,6 @@ Results-driven Machine Learning Engineer specializing in deep learning, computer
 
 ## 🚀 My GitHub Repositories
 
-<!-- All your repositories: dynamically listed -->
 <a href="https://github.com/mohamed-ehab415?tab=repositories">
   <img src="https://github-readme-projects.vercel.app/api/projects?username=mohamed-ehab415&theme=radical" alt="All Repositories" />
 </a>
@@ -90,8 +85,3 @@ Results-driven Machine Learning Engineer specializing in deep learning, computer
 <img src="https://img.shields.io/badge/Phone-01063357972-green?logo=phone" />
 
 ---
-
-<p align="center">
-  <!-- Replace with a professional, high-quality photo of yourself if available -->
-  <img src="https://avatars.githubusercontent.com/u/15667501?v=4" width="120" style="border-radius:50%" alt="Professional Mohamed Ehab" />
-</p>
