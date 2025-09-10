@@ -39,7 +39,6 @@
 
 ---
 
-<!-- Timeline style for Experience -->
 ## Achievements & Timeline
 
 ```mermaid
@@ -55,7 +54,6 @@ timeline
 
 ---
 
-<!-- Project Cards with Emojis -->
 ## Featured Projects
 
 - 🚗 [Smart Parking System](https://github.com/mohamed-ehab415/Smart_Parking): An integrated smart parking management system using computer vision and AI.
@@ -65,12 +63,34 @@ timeline
 
 ---
 
-<!-- Quote Block for Motivation -->
 > “AI is not just about technology; it’s about solving real problems and making a difference.”
 
 ---
 
-<!-- Contact Badges -->
+## GitHub Statistics & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-ehab415&show_icons=true&theme=radical&border_radius=20">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-ehab415&theme=radical&border_radius=20" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ehab415&layout=compact&theme=radical&border_radius=20">
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamed-ehab415&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamed-ehab415&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohamed-ehab415&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-ehab415&theme=radical" />
+</p>
+
+---
+
 ## Contact Me
 
 <p>
@@ -84,7 +104,6 @@ timeline
 
 ---
 
-<!-- Section Divider -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=40&section=footer"/>
 </p> 
