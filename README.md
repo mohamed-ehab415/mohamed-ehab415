@@ -45,11 +45,12 @@
 ```mermaid
 timeline
     title Career Timeline
-    2022 : Graduated from Zagazig University
-    2022 : Started working on Smart Parking System
-    2023 : Published Credit Card Fraud Detection project
-    2024 : Developed Suger Beets AI project
-    2024 : Completed Advanced Computer Vision Certification
+    2021 : Started Computer Science studies at Zagazig University
+    2022 : Learned CS fundamentals
+    2023 : Focused on Machine Learning track and projects
+    May 2025 - Feb 2026 : AI Intern at RMG Renad El Majid Group
+    2025 (June) : Graduated from Zagazig University
+    2025 – Present : Computer Vision Engineer at OZ_TECH
 ```
 
 ---
