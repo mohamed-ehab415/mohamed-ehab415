@@ -85,9 +85,6 @@ timeline
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamed-ehab415&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohamed-ehab415&theme=radical" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-ehab415&theme=radical" />
-</p>
 
 ---
 
