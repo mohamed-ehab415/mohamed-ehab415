@@ -6,9 +6,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-ehab415&theme=radical" />
-</p>
 
 ## About Me
 
@@ -82,6 +79,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-ehab415&theme=radical" />
-</p>
