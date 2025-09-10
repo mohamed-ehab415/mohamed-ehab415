@@ -34,8 +34,8 @@ Passionate about learning and applying the latest AI technologies to solve real-
 ## Featured Projects
 
 - [Smart Parking System](https://github.com/mohamed-ehab415/Smart_Parking): An integrated smart parking management system using computer vision and AI.
+- [Suger Beets Project](https://github.com/mohamed-ehab415/suger_beets): AI-powered project for sugar beet analysis and solutions.
 - [Credit Card Fraud Detection](https://github.com/mohamed-ehab415/Credit-Card-Fraud-Detection-): Building ML models to detect fraudulent transactions.
-- [DSA Homework & Practice](https://github.com/mohamed-ehab415/DSA_HOMEWORK): Practical exercises in data structures and algorithms using Python and C++.
 
 ---
 
@@ -53,9 +53,21 @@ Passionate about learning and applying the latest AI technologies to solve real-
 - LinkedIn: [linkedin.com/in/mohamed-ehab](https://www.linkedin.com/in/mohamed-ehab)
 
 ---
-
 ## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamed-ehab415&show_icons=true&theme=radical">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-ehab415&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamed-ehab415&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamed-ehab415&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohamed-ehab415&theme=radical" />
 </p>
