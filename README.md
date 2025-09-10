@@ -6,76 +6,84 @@
 
 ---
 
+<!-- Banner Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontAlignY=40" />
+</p>
+
+---
 
 ## About Me
 
-- Computer Science graduate – Artificial Intelligence track, Zagazig University  
-- Experienced in building and deploying AI models to solve real-life challenges  
-- Developed solutions in computer vision (image/video analysis, OCR) and natural language processing  
-- Always learning new AI, ML, and Deep Learning techniques  
-- Interested in data analysis, production deployment, coding challenges, and scientific research
+> Computer Science graduate – Artificial Intelligence track, Zagazig University  
+> Experienced in building and deploying AI models to solve real-life challenges  
+> Developed solutions in computer vision (image/video analysis, OCR) and natural language processing  
+> Always learning new AI, ML, and Deep Learning techniques  
+> Interested in data analysis, production deployment, coding challenges, and scientific research
 
 ---
 
+<!-- Badges for Skills -->
 ## Technical Skills
 
-| Area                     | Skills and Technologies                 |
-|--------------------------|-----------------------------------------|
-| Programming Languages    | Python, C++                             |
-| Algorithms & Data Structures | DSA, algorithm design and analysis   |
-| Machine Learning & Deep Learning | PyTorch, TensorFlow, scikit-learn |
-| Computer Vision          | Object Detection, OCR, Image Analysis   |
-| Data Analysis            | Data preprocessing, feature engineering, visualization |
-| Tools & Technologies     | Version control, APIs, cloud deployment, data tools |
-| Soft Skills              | Problem-solving, teamwork, leadership, adaptability |
-
----
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamed-ehab415&theme=radical" />
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-00AEFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-6E44FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-FFB300?style=for-the-badge"/>
 </p>
 
 ---
 
+<!-- Timeline style for Experience -->
+## Achievements & Timeline
+
+```mermaid
+timeline
+    title Career Timeline
+    2022 : Graduated from Zagazig University
+    2022 : Started working on Smart Parking System
+    2023 : Published Credit Card Fraud Detection project
+    2024 : Developed Suger Beets AI project
+    2024 : Completed Advanced Computer Vision Certification
+```
+
+---
+
+<!-- Project Cards with Emojis -->
 ## Featured Projects
 
-- [Smart Parking System](https://github.com/mohamed-ehab415/Smart_Parking): An integrated smart parking management system using computer vision and AI.
-- [Credit Card Fraud Detection](https://github.com/mohamed-ehab415/Credit-Card-Fraud-Detection-): Building ML models to detect fraudulent transactions.
-- [DSA Homework & Practice](https://github.com/mohamed-ehab415/DSA_HOMEWORK): Practical exercises in data structures and algorithms using Python and C++.
-- [Suger Beets Project](https://github.com/mohamed-ehab415/suger_beets): AI-powered project for sugar beet analysis and solutions.
+- 🚗 [Smart Parking System](https://github.com/mohamed-ehab415/Smart_Parking): An integrated smart parking management system using computer vision and AI.
+- 🛡️ [Credit Card Fraud Detection](https://github.com/mohamed-ehab415/Credit-Card-Fraud-Detection-): Building ML models to detect fraudulent transactions.
+- 📚 [DSA Homework & Practice](https://github.com/mohamed-ehab415/DSA_HOMEWORK): Practical exercises in data structures and algorithms using Python and C++.
+- 🌱 [Suger Beets Project](https://github.com/mohamed-ehab415/suger_beets): AI-powered project for sugar beet analysis and solutions.
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamed-ehab415&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohamed-ehab415&theme=radical" />
-</p>
+<!-- Quote Block for Motivation -->
+> “AI is not just about technology; it’s about solving real problems and making a difference.”
 
 ---
 
-## Certifications & Courses
-
-- AI and Machine Learning Fundamentals Certificate
-- Advanced Computer Vision and Image Processing Training
-- Specialized courses in Data Analysis and Deep Learning
-
----
-
+<!-- Contact Badges -->
 ## Contact Me
 
-- Email: [ma0587580@gmail.com](mailto:ma0587580@gmail.com)
-- LinkedIn: [linkedin.com/in/mohamed-ehab](https://www.linkedin.com/in/mohamed-ehab)
-
----
-
-## GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-ehab415&show_icons=true&theme=radical">
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-ehab415&theme=radical" />
+<p>
+  <a href="mailto:ma0587580@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-ehab">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
+<!-- Section Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=40&section=footer"/>
+</p> 
